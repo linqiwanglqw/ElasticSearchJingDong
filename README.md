@@ -1,7 +1,6 @@
-# ElasticSearchJingDong
-使用ElasticSearch实现电商搜索功能
+# ElasticSearch电商搜索功能
 
-利用注册 rest高级客户端和ElasticsearchRepository实现
+利用注册rest高级客户端和ElasticsearchRepository实现
 
 >Springboot版本：2.5.0
 >
